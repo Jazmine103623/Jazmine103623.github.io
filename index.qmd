@@ -1,0 +1,20 @@
+
+---
+title: "Jazmine Kendall"
+format: html
+image: My LinkedIn Profile Pic.jpeg
+about: 
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jazmine-kendall
+    - icon: github
+      text: Github
+      href: https://www.linkedin.com/in/jazmine-kendall
+
+---
+
+I am a final year Politics, Philosophy and Economics (Honours) student at The University of Queensland with a strong interest in public policy and environmental governance. I use qualitative, quantitative and spatial methods, including R, Python, and QGIS, to analyse policy challenges and support evidence-based decision-making.
+
+This portfolio presents selected projects in data analysis, spatial analysis, and policy research.

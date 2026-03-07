@@ -11,6 +11,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/Jazmine103623
+    - icon: portfolio
+      text: Portfolio
+      href: https://jazmine103623.github.io/portfolio.html
 ---
 
 I am a final year Politics, Philosophy and Economics (Honours) student at The University of Queensland with a strong interest in public policy and environmental governance. I use qualitative, quantitative and spatial methods, including R, Python, and QGIS, to analyse policy challenges and support evidence-based decision-making.

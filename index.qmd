@@ -1,7 +1,7 @@
 ---
 title: "Jazmine Kendall"
 format: html
-image: My LinkedIn Profile Pic.jpeg
+image: Headshot ID 8038993.jpeg
 about: 
   template: jolla
   links:

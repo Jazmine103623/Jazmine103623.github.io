@@ -1,5 +1,16 @@
 /* css styles */
 
 body{
-  background-color: #e9f1f5;
+  background-color: #1F4E5F;
+  color: white;
+}
+
+/* Make icons white */
+i, svg {
+  color: white !important;
+}
+
+/* Make links white too */
+a {
+  color: white !important;
 }
